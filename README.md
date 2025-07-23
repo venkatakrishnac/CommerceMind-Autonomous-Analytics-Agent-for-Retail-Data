@@ -1,6 +1,4 @@
 # CommerceMind-Autonomous-Analytics-Agent-for-Retail-Data
-# CommerceMind: Autonomous Analytics Agent for Retail Data
-
 > An AI-powered agent that answers natural language questions about e-commerce data using local LLMs, SQL querying, and visualizations.
 
 ---
