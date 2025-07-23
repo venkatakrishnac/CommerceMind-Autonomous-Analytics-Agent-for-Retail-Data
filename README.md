@@ -76,5 +76,3 @@ All datasets are mapped and converted into SQL tables before querying.
 
 ---
 
-## 📁 Project Structure
-
